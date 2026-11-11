@@ -492,5 +492,5 @@ UCLA Statistical Consulting Group. n.d. “Confirmatory Factor Analysis (CFA) in
 
 ## Project Links
 
-- [GitHub Repository](PASTE YOUR GITHUB REPOSITORY LINK HERE)
-- [GitHub Pages Website](PASTE YOUR GITHUB PAGES LINK HERE)
+- [GitHub Repository](https://github.com/Sora-Sky-Sora/M11)
+- [GitHub Pages Website](https://sora-sky-sora.github.io/M11/Hosoda,%20Sora-M11-CFA%20Study%20Note.html)
